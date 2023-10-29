@@ -690,20 +690,24 @@
   }
   
   .days {
-    font-size: 80px;
+    font-size: 60px;
     color: #db4844;
+    padding-right: 3%;
   }
   .hours {
-    font-size: 80px;
+    font-size: 60px;
     color: #f07c22;
+    padding-right: 3%;
   }
   .minutes {
-    font-size: 80px;
+    font-size: 60px;
     color: #f6da74;
+    padding-right: 3%;
   }
   .seconds {
-    font-size: 80px;
+    font-size: 60px;
     color: #abcd58;
+    padding-right: 3%;
   }
 
   .text-color{
